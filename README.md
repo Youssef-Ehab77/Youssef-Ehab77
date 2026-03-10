@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Youssef Ehab 👋
 
-<!--
-**Youssef-Ehab77/Youssef-Ehab77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer specialized in building secure, scalable APIs and cloud services.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Software Engineer @ Valeo
+- Backend specialist (.NET / C# / PostgreSQL)
+- Cloud experience with Google Cloud Platform
+- Interested in distributed systems, message brokers, and system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+Backend
+- .NET Core / ASP.NET Core
+- C#
+- PostgreSQL
+- Entity Framework
+
+Cloud
+- Google Cloud Platform
+- Cloud Functions
+- Firestore
+- Terraform
+
+Architecture
+- Microservices
+- Distributed systems
+- Secure cryptographic systems
+
+## 📫 Contact
+- LinkedIn
+- Email
