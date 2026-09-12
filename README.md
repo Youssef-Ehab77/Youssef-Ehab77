@@ -29,4 +29,4 @@ Architecture
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/youssef-ehab-072216233/)
-- [Email](youssef.271998@gmail.com)
+- Email: youssef.271998@gmail.com
